@@ -1,0 +1,5 @@
+/.quarto/
+.Rproj.user
+/_site/
+/_freeze/
+.Rprofile

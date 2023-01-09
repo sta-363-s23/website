@@ -1,0 +1,40 @@
+author: Lucy D'Agostino McGowan
+
+instructor:
+  name: Dr. Lucy D'Agostino McGowan
+  name_no_title: Lucy D'Agostino McGowan
+  email: mcgowald@wfu.edu
+  url: "https://www.lucymcgowan.com"
+  twitter: LucyStats
+  github: LucyMcGowan
+  office: "Manchester 342"
+  officehrs: "Thursday 10:00a-11:00a"
+  appointment_url: https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUZUUVd2RzBVa053fGRlZmF1bHR8NGM3N2ZjY2EzNDI1OTI0ODVlYjYzYWZlNTg5NzI2Y2M
+
+ta: 
+  name: "Linda Ding"
+  email: "dingj19@wfu.edu"
+  time: "TBA"
+  location: "Kirby B03"
+
+course:
+  title: "Statistical Learning"
+  subtitle: "Learn the theory behind cutting edge statistical and machine learning techniques. Gain hands on experience with real data from a variety of disciplines. The course will focus on the statistical computing language R."
+  number: "STA 363"
+  semester: "Spring 2023"
+  time: "Mon/Wed 11a"
+  location: "Carswell 101"
+  github: "https://github.com/sta-363-s23/website"
+  url: "https://sta-363-s23.github.io/website"
+  copyright_year: "2023"
+  text: | 
+    The main text book is: [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)  by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani -- it is freely available online.
+
+
+university:
+  name: Wake Forest University
+  url: "https://www.wfu.edu"
+
+school:
+  name: Department of Statistical Sciences
+  url: "https://stats.wfu.edu/"
