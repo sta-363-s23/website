@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistical Learning",
+    "section": "",
+    "text": "Teaching team and office hours\n\n\n\n\n\n\n\n\n\n\n\n\nInstructor\nDr. Lucy D’Agostino McGowan\n      \nThursday 10:00a-11:00a\nManchester 342\n\n\nTA\nLinda Ding\n\nTBA\nKirby B03\n\n\n\nMath & Stats Center\n  \nBy appointment\nKirby Hall 117\n\n\n\n\n\n\n\n\n\nCarswell 101\n\n\n\n\n\n\n\n\nMon/Wed 11a\n\n\n\n\n\n\nTexts\nThe main text book is: An Introduction to Statistical Learning with Applications in R by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani – it is freely available online.\n\n\nMaterials\nThis class is very hands on; be sure to bring a fully charged laptop to every class."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": " Schedule",
+    "section": "",
+    "text": "Note: The timeline of topics and assignments might be updated throughout the semester.\n\n\n\n\n\n\n\n\n\n  \n  \n    \n      week\n      date\n      topic\n      slides\n      appex\n      assignment\n      assessment\n      prepare\n    \n  \n  \n    1\n9 January\nWelcome\n\n\n\n\n\n    1\n11 January\nLab 01: Welcome to R\n\n\n\n\n\n    2\n16 January\nMLK [No Class]\n\n\n\n\n\n    2\n18 January\nTrade-offs: Accuracy and interpretability, bias and variance\n\n\n\n\n\n    3\n23 January\nData visualization\n\n\n\n\n\n    3\n25 January\nCross-validation\n\n\n\n\n\n    4\n30 January\nIntroduction to tidymodels\n\n\n\n\n\n    4\n1 February\nLab 02: Cross-validation\n\n\n\n\n\n    5\n6 February\nIntroduction to Linear Regression\n\n\n\n\n\n    5\n8 February\nLinear Regression in R\n\n\n\n\n\n    6\n14 February\nLogistic Regression\n\n\n\n\n\n    6\n13 February\nLab 03: Logistic Regression\n\n\n\n\n\n    6\n16 February\nGenerative Models for Classification (LDA)\n\n\n\n\n\n    6\n15 February\nGenerative Models for Classification (QDA)\n\n\n\n\n\n    7\n20 February\nNaive Bayes\n\n\n\n\n\n    7\n22 February\nLab 04: LDA and QDA\n\n\n\n\n\n    8\n27 February\nRidge Regression\n\n\n\n\n\n    8\n27 February\nLasso & Elastic Net\n\n\n\n\n\n    8\n1 March\nConfidence Intervals\n\n\n\n\n\n    \n6 March\nSpring Break [No Class]\n\n\n\n\n\n    \n8 March\nSpring Break [No Class]\n\n\n\n\n\n    9\n13 March\nReview\n\n\n\n\n\n    9\n15 March\nMidterm Exam\n\n\n\n\n\n    10\n20 March\nLab 05: Ridge, Lasso, and Elastic Net\n\n\n\n\n\n    10\n22 March\nPolynomial Regression and Splines\n\n\n\n\n\n    11\n27 March\nNon-linear Models in R\n\n\n\n\n\n    11\n28 March\nLab 06: Non-linear models\n\n\n\n\n\n    11\n29 March\nDecision Trees\n\n\n\n\n\n    12\n3 April\nDecision Trees\n\n\n\n\n\n    12\n5 April\nRandom Forests\n\n\n\n\n\n    13\n10 April\nBoosted Decision Trees\n\n\n\n\n\n    13\n12 April\nLab 07: Ensemble Models\n\n\n\n\n\n    14\n17 April\nCommunicating Complex Statistics\n\n\n\n\n\n    14\n19 April\nStatistical Communication Leaders\n\n\n\n\n\n    15\n24 April\nHonesty in Statistics and Trust in Experts\n\n\n\n\n\n    15\n26 April\nLab 08: Final Lab"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": " Policies",
+    "section": "",
+    "text": "This class is meant to be hands on. Therefore, you are responsible for reading pertinent material prior to each class."
+  },
+  {
+    "objectID": "syllabus.html#attendance",
+    "href": "syllabus.html#attendance",
+    "title": " Policies",
+    "section": "Attendance",
+    "text": "Attendance\nIf you feel unwell please do not come to class. All class material will be posted after class and I would be happy to meet outside of our class time to help you catch up if needbe."
+  },
+  {
+    "objectID": "syllabus.html#diversity-inclusiveness",
+    "href": "syllabus.html#diversity-inclusiveness",
+    "title": " Policies",
+    "section": "Diversity & Inclusiveness",
+    "text": "Diversity & Inclusiveness\nIt is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength and benefit. It is my intent to present materials and activities that are respectful of diversity: gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture. Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups.\nFurthermore, I would like to create a learning environment for my students that supports a diversity of thoughts, perspectives and experiences, and honors your identities (including gender identity, sexuality, disability, age, socioeconomic status, ethnicity, race, nationality, religion, and culture.) To help accomplish this:\n\nIf you have a name and/or set of pronouns that differ from those that appear in your official Wake Forest records, please let me know!\nIf any of our class meetings conflict with your religious events, please let me know so that we can make arrangements for you.\nIf you feel like your performance in the class is being impacted by your experiences outside of class, please don’t hesitate to come and talk with me. I want to be a resource for you. If you prefer to speak with someone outside of the course, your academic dean is an excellent resource.\nI (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to me about it."
+  },
+  {
+    "objectID": "syllabus.html#disability-policy",
+    "href": "syllabus.html#disability-policy",
+    "title": " Policies",
+    "section": "Disability Policy",
+    "text": "Disability Policy\nStudents with disabilities who believe that they may need accommodations in the class are encouraged to contact Learning Assistance Center & Disability Services at 336-758-5929 or lacds@wfu.edu as soon as possible to better ensure that such accommodations are implemented in a timely fashion."
+  },
+  {
+    "objectID": "syllabus.html#how-to-get-help",
+    "href": "syllabus.html#how-to-get-help",
+    "title": " Policies",
+    "section": "How to get help",
+    "text": "How to get help\n\nDiscussion:\nAll course discussion will be on Canvas.\nThis is a place to post your course-related questions. I encourage you to try to answer each other’s questions. At the end of the semester, I will tally up the total number of questions answered and you can get up to 1 point extra credit on your final grade.\n\n\nMath & Stats Center:\n\nMake an appointment: https://mathandstatscenter.wfu.edu/"
+  },
+  {
+    "objectID": "syllabus.html#honor-code",
+    "href": "syllabus.html#honor-code",
+    "title": " Policies",
+    "section": "Honor code",
+    "text": "Honor code\nAcademic dishonesty will not be tolerated. For other information on these matters, please consult the Code of Conduct. For Academic issues please see the College Judicial System.\n\nSharing code & responses\n\nThere are many online resources for sharing code (for example, StackOverflow) - you may use these resources but must explicitly cite where you have obtained code (both code you used directly and “paraphrased” code / code used as inspiration). Any reused code that is not explicitly cited will be treated as plagiarism.\nRather than copying someone else’s work, ask for help. You are not alone in this course!"
+  },
+  {
+    "objectID": "syllabus.html#course-components",
+    "href": "syllabus.html#course-components",
+    "title": " Policies",
+    "section": "Course components",
+    "text": "Course components\n\nApplication exercises\nThese will start in class and should be finished by 5pm ET the following day.\n\n\nLabs\nThe objective of the labs is to give you hands on experience with data analysis using modern statistical software. The labs will also provide you with tools that you will need to complete the project successfully. You may work with other students on the labs, using the same policy as the Homeworks.\n\n\nCheck-ins\nWe will periodically have assessments to check in with our learning goals."
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": " Policies",
+    "section": "Grading",
+    "text": "Grading\nYour final grade will be comprised of the following:\n\n\n\nApplication exercises\n5%\n\n\nMidterm\n20%\n\n\nCheck-ins\n25%\n\n\nLabs\n30%\n\n\nFinal\n20%\n\n\n\nGrades conversion:\n\n\n\nLetter\nNumeric\n\n\n\n\nA\n95 +\n\n\nA-\n90 - 94\n\n\nB+\n87 - 89\n\n\nB\n83 - 86\n\n\nB-\n80 - 82\n\n\nC+\n77 - 79\n\n\nC\n73 - 76\n\n\nC-\n70 - 72\n\n\nD+\n67 - 69\n\n\nD\n65 - 66\n\n\nF\nBelow 65"
+  },
+  {
+    "objectID": "syllabus.html#late-missed-work",
+    "href": "syllabus.html#late-missed-work",
+    "title": " Policies",
+    "section": "Late / missed work",
+    "text": "Late / missed work\n\nLate work policy for labs:\n\nlate, but within 24 hours of due date/time: -50%\nany later: no credit\n\nNo make-up assessments will be given.\nAll regrade requests must be discussed with the professor within one week of receiving your grade. There will be no grade changes after the final class."
+  }
+]
