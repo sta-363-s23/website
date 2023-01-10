@@ -60,7 +60,7 @@ These will start in class and should be finished by 5pm ET the following day.
 
 ### Labs
 
-The objective of the labs is to give you hands on experience with data analysis using modern statistical software. The labs will also provide you with tools that you will need to complete the project successfully. You may work with other students on the labs, using the same policy as the Homeworks.
+The objective of the labs is to give you hands on experience with data analysis using modern statistical software. The labs will also provide you with tools that you will need to complete the project successfully. You are welcome to work on these with other members of this class. If you do so, please acknowledge your collaborator(s) at the top of your assignment, for example: “Collaborators: Gertrude Cox, Florence Nightingale David”. Failure to acknowledge collaborators will result in a grade of 0. You may not copy answers directly from another student. If you copy someone else’s work, both parties will receive a grade of 0.
 
 ### Check-ins
 
