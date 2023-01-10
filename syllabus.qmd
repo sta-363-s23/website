@@ -102,6 +102,7 @@ Grades conversion:
     -   late, but within 24 hours of due date/time: -50%
     -   any later: no credit
 
+- Everyone is granted 3 days of a "late bank" over the course of the semester for Labs. You can use these how you please (i.e. you may turn one assignment in 3 days late, 3 assignments in 1 day late, or some combination). If you would like to use this for an assignment, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeM0DTrSMLvIh3gEQmOaX6d5YXP78W2yglz1PMCA0mSvIt--A/viewform?usp=sf_link)
 -   No make-up assessments will be given.
 
 -   All regrade requests must be discussed with the professor within one week of receiving your grade.
