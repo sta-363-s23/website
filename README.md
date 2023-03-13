@@ -16,7 +16,7 @@ Course website is live at https://sta-363-s23.github.io/website.
   - MST256 by Rob Erhardt
 
 - The header image is a ["Data analytics vector" created by upklyak - www.freepik.com](https://www.freepik.com/vectors/data-analytics). 
-- The hex is designed by Lucy D'Agostino McGowan
+- The hex is designed by [Lucy D'Agostino McGowan](www.lucymcgowan.com)
 
 # Notes for building the website:
 
